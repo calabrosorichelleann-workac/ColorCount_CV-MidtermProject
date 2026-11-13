@@ -23,7 +23,7 @@ ColorCount CV detects red, green, and blue regions in a live webcam feed, a stat
 | `requirements.txt` | Python dependencies (`opencv-python`, `numpy`) |
 | `sample_inputs/` | Sample files: `sample_objects.png` (6 separated objects), `sample_touching.png` (two touching red circles), `sample_video.avi` (moving objects) |
 | `screenshots/` | Output screenshots (saved with the **S** key); see `screenshots/README.txt` |
-| `docs/ColorCount_Documentation.pdf` | Project documentation paper (`.docx` source in the same folder) |
+| `docs/CSC 126 Documentation Project.pdf` | Project documentation paper (`.docx` source in the same folder) |
 | `.gitignore` | Keeps `.venv/` and cache files out of the repository |
 
 ## 4. Requirements
